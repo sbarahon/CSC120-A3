@@ -1,5 +1,5 @@
 # CSC120: Object-Oriented Programming
-## A3 Checklist
+## A3 Checklist ##
 
 Listed below are various aspects of the assignment.  When you turn in your work, please indicate the status of each item
 
